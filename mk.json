@@ -1,6 +1,20 @@
 {
-"name":"enter",
-"ahmad":"kl",
-"age":25,
-"class":"MCA"
+  "people": [
+    {
+      "name":"Brad",
+      "age": 35
+    },
+    {
+      "name":"John",
+      "age":40
+    },
+    {
+      "name":"Sara",
+      "age":25
+    },
+    {
+      "name":"Jeff",
+      "age":20
+    }
+  ]
 }
